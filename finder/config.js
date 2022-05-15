@@ -8,7 +8,7 @@ const config = {
   CSV: './Sample_Data.csv',
   center: [-120.234, 47.398],
   zoom: 6,
-  title: 'Locate 2.0',
+  title: 'Locate 3.0',
   description:
     'Search Online',
   sideBarInfo: ['Location_Name', 'Address', 'Phone'],
